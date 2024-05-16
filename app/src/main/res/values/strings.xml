@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">LotteryApp</string>
+    <string name="img_lottery">Lottery Image</string>
+    <string name="btn">Button</string>
+    <string name="hint">Please Enter Your Name</string>
+    <string name="share_loc">Share the Lottery Number</string>
+</resources>
